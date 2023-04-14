@@ -2,8 +2,8 @@
 
 # Descrição
 
-App mobile, voltado para as pessoas praticarem a culinária.
-Com botões que te permitem transitar entre receitas de bebidas e comidas, salvar, favoritar e até compartilhar suas receitas nas redes sociais. Disponibilizamos arquivos multimídias para que você possa assistir a execução da receita ao invés de ter somente a opção de ler, criamos também um carrossel de recomendações. Aproveite!
+Este App mobile, desenvolvido em grupo, é voltado para as pessoas praticarem a culinária.</br>
+Com botões que te permitem transitar entre receitas de bebidas e comidas, salvar, favoritar e até compartilhar suas receitas nas redes sociais. Disponibilizamos arquivos multimídias para que você possa assistir o processo da receita ao invés de ter somente a opção de ler. Criamos também um carrossel de recomendações. Aproveite!
 
 # Técnologias utilizadas
 
