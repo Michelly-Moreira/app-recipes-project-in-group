@@ -27,6 +27,7 @@ Com botões que te permitem transitar entre receitas de bebidas e comidas, salva
 <sumary><strong>Clone o projeto e o inicialize</strong></sumary></br>
   - Para clonar o projeto, use o comando: git clone git@github.com:Michelly-Moreira/app-recipes-project-in-group.git</br>
   - Inicialize o projeto: npm start</br>
+</details>
 
 # Colaboradores
 
