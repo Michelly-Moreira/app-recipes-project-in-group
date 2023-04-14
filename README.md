@@ -25,17 +25,17 @@ Com botões que te permitem transitar entre receitas de bebidas e comidas, salva
 
 <details>
 <sumary><strong>Instale as dependẽncias e inicialize o projeto</strong></sumary></br>
-  - Instale as dependências: npm install
-  - Inicialize o projeto: npm start
+  - Instale as dependências: npm install</br>
+  - Inicialize o projeto: npm start</br>
 </details>
 
 # Colaboradores
 
-Camilla Jácome
-Carlos Eduardo Oliveira
-Juan Ribeiro
-Michelly Daiana de Azevedo Moreira
-Tiago Lira
+- Camilla Jácome
+- Carlos Eduardo Oliveira
+- Juan Ribeiro
+- Michelly Daiana de Azevedo Moreira
+- Tiago Lira
 
 # Status do projeto
 
