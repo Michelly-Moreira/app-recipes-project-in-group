@@ -1,5 +1,3 @@
-# :construction: README em construção ! :construction:
-
 # Boas-vindas ao repositório do projeto App de Receitas!!!
 
 # Descrição
@@ -26,7 +24,7 @@ Com botões que te permitem transitar entre receitas de bebidas e comidas, salva
 # Inicialização
 
 <details>
-<sumary><strong>Instale as dependẽncias e inicialize o projeto</strong></sumary>
+<sumary><strong>Instale as dependẽncias e inicialize o projeto</strong></sumary></br>
   - Instale as dependências: npm install
   - Inicialize o projeto: npm start
 </details>
